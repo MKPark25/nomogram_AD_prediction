@@ -1,0 +1,1 @@
+# nomogram_AD_prediction
